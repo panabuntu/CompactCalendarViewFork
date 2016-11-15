@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="status_expected">#f89406</color>
+    <color name="status_fully_approved">#22be5b</color>
+    <color name="status_manager_approved">#18a6c1</color>
+    <color name="status_submitted">#5c7c7e</color>
+    <color name="status_rejected">#ff0000</color>
+    <color name="status_draft">#999999</color>
+    <color name="status_missing">#dccc3e</color>
+</resources>
